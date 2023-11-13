@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+    <html>
+        <head> 
+            <meta charset="UTF-8">
+            <link rel="stylesheet" type="text/css" href="horariv2.css">
+            <link rel="shortcut icon" href="HTML5.ico">
+            <link rel="stylesheet" href="Pt1.6.css">
+            <title>Horari Html amb Css</title>
+            <style>
+            table,th,td {
+            border: 2px solid black;
+            }
+            </style>
+        </head>
+        <a href= "M" target="_blank" ></a>
+<body>
+<form action="ejemplo.php" method="get">
+    <fieldset>
+        <legend>Dades personals</legend>
+    <p>Edat: <input type="text" name="nombre" size="40"></p>
+    <p>Email: <input type="number" name="nacido" min="1900"></p>
+    <p>Contrasenya: <input type="password">
+    <p>Data de naixement: <input type="number" name="nacido">
+     </fieldset> 
+   </p>        
+          </fieldset>
+          
+          <fieldset>
+            <legend>Moduls a evaluar</legend>
+            <select name="menu">
+              <option selected>seleccioneu</option>
+              <optgroup label="Grupo1">
+                <option value="1">Opción uno</option>
+                <option value="2">Opción dos</option>
+                <option value="3">Opción tres</option>
+              </optgroup>
+              <optgroup label="Grupo2">
+                <option value="4">Opción cuatro</option>
+                <option value="5">Opción cinco</option>
+                <option value="6">Opción seis</option>
+              </optgroup>
+            </select>
+            
+            </p>
+      </fieldset>
+    </p>   
+    <p>
+      <fieldset>
+        <legend>Cicle</legend>
+        <input type="radio" name="boton" value="ASIX">ASIX
+        <input type="radio" name="boton" value="DAM">DAM
+        <input type="radio" name="boton" value="DAW">DAW
+        <input type="radio" name="boton" value="BIOINFORMÀTICA">BIOINFORMÀTICA
+        </fieldset>
+
+    </p>
+
+    <p>
+      <fieldset>
+        <legend>Professor a evaluar</legend>
+        <legend>Nom Professor*</legend>
+        <input type="text" name="nombre">
+      
+        <legend>Grau de satisfacció del 0 al 10</legend> 
+      <input type="range" name="rango"
+      min="1" max="10" step="3">
+      
+        <legend>Comentaris</legend>
+      <textarea name="texto" rows="4" cols="40" placeholder="Escriba algo"></textarea>
+      </fieldset>       
+  
+        </p>
+        
+        
+    </p>
+    
+      <fieldset>
+        <legend>Explica alguna cosa sobre tu</legend>
+        <legend>Ets repetidor?</legend>
+        <input type="checkbox" name="casilla">Si
+        <input type="checkbox" name="casilla">No
+        <legend>Color preferit</legend>
+        <input type="color" name="colorElegido" value="#ff0000">
+        <legend>Direcció web</legend>
+        <input type="url" name="direccion" size="40">
+        <legend>Situació actual</legend>
+        <input type="search" name="busqueda" size="40">
+        <input type="file" name="archivo">
+
+      </fieldset>
+      
+      <fieldset>
+        <legend>CURSOS EXTRES</legend>
+        <input type="checkbox" name="casilla">Cloud Computing
+        <input type="checkbox" name="casilla">Big Data 
+        <input type="checkbox" name="casilla">Unity 5
+      </fieldset>
+
+      <fieldset>
+        <legend>Data Enquesta</legend>
+        Fecha: <input type="date" name="fecha">
+        Hora: <input type="time" name="hora">
+      </fieldset>
+
+
+
+    <p>
+      <fieldset>
+      <input type="submit" value="Enviar">
+      <input type="reset" value="Borrar">
+      <input type="reset" value="Surt">
+    </fieldset>
+    </p>
+  </form>
