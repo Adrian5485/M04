@@ -1,0 +1,12 @@
+p {
+    color: green;
+    border: 15px solid
+}
+
+td:hover{
+    transition-delay: 0,75ms;
+}
+
+body {
+    background-image: "";
+}

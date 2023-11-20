@@ -1,0 +1,55 @@
+       <table >
+         <tr class="fondos1"><th colspan="6">Horari ASIX</th></tr>
+         <tr class="fondos1">
+            <th></th>
+            <th>Dilluns</th>
+            <th>Dimarts</th>
+            <th>Dimecres</th>
+            <th>Dijous</th>
+            <th>Divendres</th>
+        </tr>
+        <tr class="fondos1"> 
+            <th class="fondos2">15:15<br/>16:15</th> 
+            <td rowspan="2"><span class="negrita">asix-m04</span><br/>Miralves or28</td>
+            <td rowspan="3"><span class="negrita">asix-m02</span><br/>Muñoz or28</td>
+            <td rowspan="2"><span class="negrita">Tut-Alum</span><br/>Sales or28</tr>
+            <td rowspan="2"><span class="negrita">asix-m03</span><br/>INF-PT5.<br/>Sales. or28.</td>
+            <td rowspan="2"></td>    
+        </tr>
+        <tr>
+            <th class="fondos2">9:30<br/>10:30</th>
+        </tr>
+   
+        <tr class="fondos1">
+            <th class="fondos2">16:15<br/>17:15</th>
+            <td><span class="negrita">asix-m04</span><br/>Miralves or28</td>
+            <td><span class="negrita">damw-m12EiE</span><br/>Martin:Maria. or26.</td>
+            <td><span class="negrita">damw-m12EiE</span><br/>Martin:Maria. or26.</td>
+            <td><span class="negrita">damw-m11FOL</span><br/>Alonso. or26.<br/>Espasa. or43.</td>
+        </tr>
+        <tr class="fondos1">
+            <th class="fondos2">11:30<br/>12:00</th>
+            <td colspan="5" ><marquee><span class="negrita">PATIO</span></marquee></td>
+        </tr>
+        <tr class="fondos1">
+            <th class="fondos2">12:00<br/>13:00</th>
+            <td rowspan="3"><span class="negrita">damw-m01</span><br/>Ramos <span class="cursiva"></span>or25</td>
+            <td rowspan="3"><span class="negrita">damw-m02</span><br/>Rodriguez or25</td>
+            <td rowspan="2"><span class="negrita">damw-m04</span><br/>Gonza:David or25</td>
+            <td rowspan="3"><span class="negrita">damw-m03</span><br/>Murillo or25</td>
+            <td rowspan="2"><span class="negrita">damw-m02</span><br/>Rodriguez or25</td>
+        </tr>
+        <tr class="fondos1">
+            <th class="fondos2"> 13:00<br/>14:00</th>
+        
+        </tr>
+        <tr class="fondos1">
+            <th class="fondos2">14:00<br/>15:00</th>
+        </tr>
+    </table>
+</body>
+
+</html>
+
+    
+    
